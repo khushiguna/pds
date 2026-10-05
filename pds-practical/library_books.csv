@@ -1,0 +1,153 @@
+Book_ID,Book_Name,Author,Genre,Publication_Year,Rating,Available_Copies,Price,Language
+B001,Digital Fortress,Jessica Harris,Self-Help,2018,3.2,2,695.0,English
+B002,Artificial Intelligence,Daniel Martin,Business,2019,4.8,11,354.0,Gujarati
+B003,Digital Fortress,Christopher White,Self-Help,2018,4.6,3,815.0,Gujarati
+B004,Rich Dad Poor Dad,Matthew Clark,Technology,2010,4.1,13,530.0,Hindi
+B005,Web Development Guide,David Wilson,Self-Help,2014,3.9,11,353.0,English
+B006,Statistics for Data Science,David Wilson,Biography,2025,3.3,4,240.0,Hindi
+B007,Clean Code,Robert Brown,Programming,2020,3.3,3,260.0,English
+B008,Machine Learning Essentials,David Wilson,Business,2013,4.1,4,994.0,English
+B009,Python Basics,Christopher White,Technology,2010,3.9,4,477.0,Gujarati
+B010,Database Systems,Robert Brown,History,2020,3.0,5,729.0,English
+B011,Web Development Guide,Matthew Clark,Biography,2023,3.8,3,435.0,Gujarati
+B012,Data Science Handbook,Matthew Clark,Business,2023,3.6,3,963.0,Gujarati
+B013,Artificial Intelligence,Daniel Martin,Self-Help,2013,3.5,8,753.0,Hindi
+B014,Atomic Habits,John Smith,Self-Help,2018,3.2,9,617.0,Gujarati
+B015,Deep Work,Patricia Moore,Self-Help,2012,3.9,14,615.0,Hindi
+B016,The Alchemist,Linda Thomas,Technology,2024,3.2,8,663.0,Hindi
+B017,The Great Gatsby,William Taylor,Self-Help,2018,3.0,5,800.0,English
+B018,Web Development Guide,Christopher White,Business,2017,4.2,10,280.0,English
+B019,Python Basics,Robert Brown,Programming,2013,3.1,2,273.0,Gujarati
+B020,Wings of Fire,James Anderson,Business,2021,4.6,1,668.0,English
+B021,Atomic Habits,Matthew Clark,Science,2013,3.8,7,900.0,English
+B022,The Alchemist,Jennifer Lee,Business,2010,4.6,7,712.0,English
+B023,Deep Work,Jessica Harris,History,2018,3.8,8,347.0,Hindi
+B024,Web Development Guide,Linda Thomas,Business,2010,3.4,3,217.0,Gujarati
+B025,Computer Networks,Michael Miller,Fiction,2024,3.9,5,434.0,Gujarati
+B026,The Power of Habit,Jessica Harris,Fiction,2010,4.1,3,947.0,Gujarati
+B027,Computer Networks,John Smith,Self-Help,2025,3.8,2,482.0,English
+B028,Clean Code,Jessica Harris,Fiction,2018,3.7,7,703.0,English
+B029,Wings of Fire,Jennifer Lee,Business,2014,4.4,8,893.0,Hindi
+B030,Computer Networks,Robert Brown,Business,2025,3.3,10,296.0,English
+B031,Digital Fortress,Matthew Clark,Business,2017,3.8,14,239.0,English
+B032,Statistics for Data Science,Daniel Martin,Self-Help,2022,3.4,7,348.0,Hindi
+B033,Atomic Habits,Linda Thomas,Technology,2010,3.7,12,498.0,English
+B034,The Psychology of Money,Linda Thomas,Science,2014,3.7,6,606.0,Gujarati
+B035,Digital Fortress,Sarah Davis,Fiction,2015,4.5,3,329.0,English
+B036,Database Systems,Patricia Moore,Programming,2022,3.2,15,640.0,English
+B037,The Psychology of Money,William Taylor,Biography,2011,3.2,4,640.0,Gujarati
+B038,Database Systems,Jennifer Lee,Self-Help,2016,3.0,5,454.0,English
+B039,Artificial Intelligence,Emily Johnson,Technology,2018,4.0,15,821.0,English
+B040,Database Systems,Jessica Harris,Fiction,2025,4.3,7,558.0,English
+B041,Introduction to Algorithms,Daniel Martin,Technology,2010,3.1,6,478.0,English
+B042,Introduction to Algorithms,David Wilson,Business,2010,4.3,1,316.0,Gujarati
+B043,The Great Gatsby,Robert Brown,Science,2025,4.7,2,774.0,Hindi
+B044,The Great Gatsby,Emily Johnson,Self-Help,2012,4.5,12,812.0,English
+B045,Data Science Handbook,David Wilson,History,2012,3.5,5,929.0,Gujarati
+B046,Database Systems,Jessica Harris,Technology,2024,3.4,12,430.0,Gujarati
+B047,The Power of Habit,Patricia Moore,Biography,2019,4.5,13,239.0,English
+B048,Introduction to Algorithms,Christopher White,Biography,2020,4.1,7,607.0,Gujarati
+B049,Clean Code,Emily Johnson,History,2019,4.8,4,393.0,Hindi
+B050,The Power of Habit,Daniel Martin,Programming,2020,4.2,12,942.0,Gujarati
+B051,Wings of Fire,Emily Johnson,Fiction,2013,4.2,11,529.0,Gujarati
+B052,Rich Dad Poor Dad,Linda Thomas,Fiction,2025,3.2,14,603.0,Gujarati
+B053,Web Development Guide,David Wilson,Technology,2010,4.5,14,823.0,English
+B054,The Alchemist,David Wilson,History,2017,4.3,11,730.0,English
+B055,Introduction to AI,Emily Johnson,Technology,2012,3.5,10,432.0,Hindi
+B056,Deep Work,Michael Miller,Fiction,2017,3.3,4,305.0,Hindi
+B057,The Power of Habit,William Taylor,Programming,2018,3.6,9,744.0,English
+B058,The Psychology of Money,Patricia Moore,Self-Help,2020,3.6,5,265.0,Gujarati
+B059,Atomic Habits,Emily Johnson,Programming,2024,4.5,2,599.0,English
+B060,Clean Code,Patricia Moore,Technology,2012,4.6,14,469.0,English
+B061,Statistics for Data Science,Patricia Moore,Business,2010,4.2,14,913.0,English
+B062,Rich Dad Poor Dad,Michael Miller,Fiction,2024,3.8,9,965.0,Hindi
+B063,Web Development Guide,William Taylor,Business,2020,3.0,9,967.0,Gujarati
+B064,Clean Code,Linda Thomas,Biography,2014,4.7,8,463.0,Gujarati
+B065,Machine Learning Essentials,John Smith,Biography,2010,3.7,13,358.0,Hindi
+B066,Machine Learning Essentials,William Taylor,Fiction,2021,4.8,5,629.0,Hindi
+B067,Computer Networks,Jennifer Lee,Self-Help,2022,4.0,9,777.0,Hindi
+B068,Introduction to Algorithms,Michael Miller,Fiction,2011,4.3,10,404.0,English
+B069,Wings of Fire,Linda Thomas,Technology,2020,4.5,5,275.0,Hindi
+B070,Computer Networks,Robert Brown,Science,2016,4.0,1,561.0,Gujarati
+B071,Introduction to AI,Robert Brown,Technology,2017,3.3,9,237.0,Gujarati
+B072,Deep Work,Sarah Davis,Business,2021,3.7,11,299.0,English
+B073,The Power of Habit,Matthew Clark,Programming,2016,3.8,7,273.0,Hindi
+B074,Database Systems,Matthew Clark,History,2022,3.6,3,663.0,English
+B075,Computer Networks,Sarah Davis,Programming,2023,3.4,9,643.0,English
+B076,Digital Fortress,Christopher White,Self-Help,2020,3.4,8,639.0,Gujarati
+B077,Web Development Guide,Jennifer Lee,Fiction,2010,3.9,7,942.0,English
+B078,Digital Fortress,Patricia Moore,Self-Help,2022,3.4,9,987.0,English
+B079,Statistics for Data Science,John Smith,Self-Help,2013,4.0,8,823.0,Hindi
+B080,Introduction to AI,Jessica Harris,Biography,2012,4.9,3,969.0,English
+B081,Statistics for Data Science,James Anderson,Self-Help,2018,4.9,4,428.0,English
+B082,The Psychology of Money,John Smith,Programming,2015,4.6,1,792.0,Hindi
+B083,Data Science Handbook,Emily Johnson,History,2010,3.3,5,202.0,English
+B084,The Alchemist,Michael Miller,Technology,2021,4.3,7,915.0,English
+B085,Introduction to AI,Emily Johnson,Fiction,2018,3.3,15,480.0,Hindi
+B086,Machine Learning Essentials,Emily Johnson,History,2016,3.1,2,424.0,English
+B087,Atomic Habits,Christopher White,Programming,2021,3.6,1,669.0,English
+B088,Machine Learning Essentials,William Taylor,Self-Help,2012,3.3,2,614.0,Gujarati
+B089,Deep Work,Daniel Martin,Biography,2010,4.7,5,499.0,Gujarati
+B090,Introduction to AI,James Anderson,Business,2012,4.8,1,605.0,English
+B091,Python Basics,John Smith,Biography,2015,4.2,10,548.0,Gujarati
+B092,Rich Dad Poor Dad,Emily Johnson,Programming,2018,4.9,5,306.0,English
+B093,Clean Code,Robert Brown,Fiction,2012,3.4,5,868.0,Hindi
+B094,Web Development Guide,Emily Johnson,Fiction,2011,3.3,6,410.0,Hindi
+B095,The Alchemist,Patricia Moore,Self-Help,2020,3.6,3,995.0,English
+B096,The Power of Habit,William Taylor,History,2025,3.3,3,999.0,Gujarati
+B097,Wings of Fire,David Wilson,Technology,2025,5.0,10,720.0,Hindi
+B098,Computer Networks,Daniel Martin,Technology,2011,3.2,10,291.0,English
+B099,Statistics for Data Science,Emily Johnson,Science,2014,4.3,9,990.0,Gujarati
+B100,Rich Dad Poor Dad,Daniel Martin,Biography,2015,4.2,10,335.0,Hindi
+B101,Digital Fortress,William Taylor,Science,2015,4.0,12,419.0,Hindi
+B102,The Alchemist,Sarah Davis,History,2020,3.2,8,806.0,English
+B103,Digital Fortress,Christopher White,Self-Help,2014,3.5,3,691.0,Gujarati
+B104,Python Basics,Patricia Moore,History,2020,3.4,6,402.0,Gujarati
+B105,Wings of Fire,Emily Johnson,Business,2018,3.5,5,387.0,English
+B106,Computer Networks,Daniel Martin,Self-Help,2024,3.1,15,749.0,Gujarati
+B107,Python Basics,Jennifer Lee,Self-Help,2023,3.4,8,445.0,English
+B108,The Great Gatsby,James Anderson,Self-Help,2010,3.9,9,791.0,English
+B109,Rich Dad Poor Dad,Jennifer Lee,Science,2010,3.9,8,785.0,English
+B110,Atomic Habits,Linda Thomas,Fiction,2015,3.6,2,973.0,English
+B111,Database Systems,Jennifer Lee,Programming,2011,3.0,13,676.0,Hindi
+B112,Clean Code,Jessica Harris,Science,2024,3.7,5,894.0,Gujarati
+B113,The Psychology of Money,James Anderson,Science,2013,4.5,9,708.0,Gujarati
+B114,Introduction to AI,Daniel Martin,Business,2019,3.3,7,316.0,English
+B115,Machine Learning Essentials,Matthew Clark,History,2025,4.1,15,471.0,Gujarati
+B116,Database Systems,Jessica Harris,Technology,2015,3.3,14,268.0,Hindi
+B117,Statistics for Data Science,Patricia Moore,Biography,2021,3.9,7,646.0,Hindi
+B118,Digital Fortress,Emily Johnson,Programming,2011,4.4,7,650.0,Gujarati
+B119,Web Development Guide,James Anderson,Fiction,2018,3.3,7,529.0,Hindi
+B120,Rich Dad Poor Dad,Emily Johnson,Self-Help,2019,4.4,8,427.0,Hindi
+B121,Wings of Fire,Emily Johnson,Technology,2012,3.7,6,473.0,Gujarati
+B122,Introduction to AI,Daniel Martin,Business,2021,3.8,13,707.0,Hindi
+B123,Python Basics,Jennifer Lee,History,2021,3.0,10,741.0,English
+B124,Python Basics,David Wilson,Self-Help,2014,3.8,7,633.0,Gujarati
+B125,Database Systems,Linda Thomas,Fiction,2017,4.2,8,222.0,Hindi
+B126,Database Systems,James Anderson,Self-Help,2018,4.8,4,238.0,Hindi
+B127,The Great Gatsby,Sarah Davis,Self-Help,2020,4.2,7,304.0,Hindi
+B128,Introduction to Algorithms,James Anderson,Fiction,2017,3.4,2,462.0,Gujarati
+B129,The Power of Habit,Daniel Martin,Self-Help,2013,4.9,5,764.0,English
+B130,Atomic Habits,James Anderson,Technology,2011,3.6,10,498.0,Hindi
+B131,Web Development Guide,Michael Miller,Fiction,2015,3.9,5,320.0,Gujarati
+B132,Computer Networks,Emily Johnson,Technology,2019,4.3,10,244.0,Hindi
+B133,Clean Code,Daniel Martin,Technology,2019,3.2,13,783.0,English
+B134,Computer Networks,William Taylor,History,2021,5.0,12,247.0,Hindi
+B135,Introduction to AI,Linda Thomas,Programming,2019,3.3,3,472.0,Hindi
+B136,Wings of Fire,James Anderson,Self-Help,2020,4.9,7,260.0,Hindi
+B137,Python Basics,Jennifer Lee,Biography,2021,4.4,2,602.0,English
+B138,Atomic Habits,Patricia Moore,Science,2011,4.5,12,956.0,Gujarati
+B139,Python Basics,David Wilson,Technology,2011,3.7,1,340.0,Gujarati
+B140,Web Development Guide,William Taylor,Business,2013,4.9,3,774.0,Gujarati
+B141,Wings of Fire,James Anderson,Fiction,2020,3.8,7,209.0,Hindi
+B142,Web Development Guide,Linda Thomas,Self-Help,2023,3.1,8,756.0,Hindi
+B143,Digital Fortress,Patricia Moore,Science,2010,4.9,10,949.0,Gujarati
+B144,Web Development Guide,Matthew Clark,Self-Help,2012,3.2,14,654.0,Hindi
+B145,Computer Networks,William Taylor,History,2015,4.0,15,741.0,Hindi
+B146,Artificial Intelligence,Daniel Martin,Fiction,2015,4.6,11,945.0,Gujarati
+B147,Statistics for Data Science,Michael Miller,Fiction,2021,4.7,5,212.0,English
+B148,The Psychology of Money,Jennifer Lee,Self-Help,2024,4.3,4,888.0,Gujarati
+B149,Introduction to AI,Jennifer Lee,Programming,2018,4.2,8,652.0,Hindi
+B150,The Alchemist,David Wilson,Science,2023,5.0,11,912.0,English
+b151,pds,david,science,2023,4.2,3,300.0,english
+B151,Python for data science,David,science,2023,4.2,4,699.0,english
